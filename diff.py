@@ -11,3 +11,4 @@ result = sum_of_two_numbers(number1, number2)
 
 # Display the result
 print("The sum of", number1, "and", number2, "is", result)
+print("nothign special")
